@@ -7,3 +7,4 @@ For Creation of This Project
 To run the project
 1) run "npm i" in the project directory
 2) run "npm start"
+3) If any error occurs, stop the project and run again
